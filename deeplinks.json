@@ -71,13 +71,7 @@
       "url": "/neomobile"
     }
   ],
-  "SIO Links": [
-    {
-      "name": "Activate Trinity",
-      "url": "/sio/TRIN"
-    }
-  ],
-  "MKSAPI Links": [
+   "MKSAPI Links": [
     {
       "name": "Income Range Update",
       "url": "/mksapi/irup"
@@ -85,6 +79,18 @@
     {
       "name": "Nest Trading terminal",
       "url": "/nest-trading-terminal"
+    }
+  ],
+  "Redirects": [
+    {
+      "name": "Youtube Home",
+      "url": "/redirect?url=https://youtube.com"
+    }
+  ],
+  "SIO Links": [
+    {
+      "name": "Activate Trinity",
+      "url": "/sio/TRIN"
     }
   ]
 }
