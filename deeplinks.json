@@ -115,11 +115,11 @@
   {
     "name": "Account Activation PACT",
     "url": "/mksapi/PACT"
-  }
-    {
+  },
+  {
       "name": "Nest Trading terminal",
       "url": "/nest-trading-terminal"
-    }
+  }
   ],
   "Redirects": [
     {
